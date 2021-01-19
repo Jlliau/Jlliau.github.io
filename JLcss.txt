@@ -1,0 +1,23 @@
+body{
+
+}
+
+#font1{
+    font-size:21px;
+    color:blue;
+}
+
+#font2 {
+    font-size: 21px;
+    color:chocolate;
+}
+
+#font3 {
+    font-size: 21px;
+    color: deeppink;
+}
+
+#font4 {
+    font-size: 21px;
+    color:peru;
+}
